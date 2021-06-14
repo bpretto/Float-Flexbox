@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+.nav {
+    /* float: left; */
+    background-color: #810000;
+    flex: 1;
+}
+
+.page-container {
+    width: 80vw;
+    height: 100vh;
+}
+
+.header {
+    /* float: left; */
+    height: 20vh;
+    background-color: #CE1212;
+}
+
+.page-container2 {
+    display: flex;
+    height: 80vh;
+}
+
+.page {
+    /* float: left; */
+    width: 80vw;
+}
+
+.article {
+    /* float: left; */
+    height: 60vh;
+    background-color: white
+}
+
+.footer {
+    /* float: left; */
+    height: 20vh;
+    background-color: #CE1212;
+}
+
+.aside {
+    /* float: left; */
+    width: 20vw;
+    background-color: #810000;
+}
