@@ -5,33 +5,32 @@
 }
 
 .header {
-    color: rgb(0, 0, 0);
     background-color: #23049D;
     height: 20vh;
     display: flex;
-    justify-content: flex-start;
-    align-items: flex-start;
 }
 
 .page {
     display: flex;
     height: 60vh;
-    flex-wrap: wrap;
 }
 
 .article {
     background-color: white;
     width: 70vw;
+    order: 1;
 }
 
 .aside {
     background-color: #AA2EE6;
     width: 15vw;
+    order: 2;
 }
 
 .nav {
     background-color: #FF79CD;
     width: 15vw;
+    order: 3;
 }
 
 .footer {

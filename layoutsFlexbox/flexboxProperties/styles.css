@@ -18,17 +18,12 @@
     justify-content: center;
 }
 
-.layouts {
-    display: flex;
-    justify-content: center;
+.properties {
+    margin-top: 35vh;
     text-align: center;
 }
 
-.layout {
-    margin: 2vh
-}
-
 .madeby {
-    margin-top: 11.4vh;
+    margin-top: 38.7vh;
     text-align: center;
 }

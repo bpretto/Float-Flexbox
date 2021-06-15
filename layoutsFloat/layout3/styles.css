@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    float: left;
+    height: 100vh;
+    width: 100vw;
+}
+
+.nav {
+    float: left;
+    height: 100vh;
+    width: 20vw;
+    background-color: #810000;
+}
+
+.header {
+    float: left;
+    height: 20vh;
+    width: 80vw;
+    background-color: #CE1212;
+}
+
+.article {
+    float: left;
+    width: 60vw;
+    height: 60vh;
+    background-color: white
+}
+
+.footer {
+    float: left;
+    width: 80vw;
+    height: 20vh;
+    background-color: #CE1212;
+}
+
+.aside {
+    float: left;
+    width: 20vw;
+    height: 60vh;
+    background-color: #810000;
+}

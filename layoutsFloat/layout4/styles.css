@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    float: left;
+    height: 100vh;
+    width: 100vw;
+}
+
+.header {
+    float: left;
+    background-color: #F9B208;
+    height: 20vh;
+    width: 100vw;
+}
+
+.nav {
+    float: left;
+    background-color: #F7FD04;
+    width: 20vw;
+    height: 60vh;
+}
+
+.article {
+    float: left;
+    background-color: white;
+    width: 60vw;
+    height: 60vh;
+}
+
+.aside {
+    float: left;
+    background-color: #F7FD04;
+    width: 20vw;
+    height: 60vh;
+}
+
+.footer {
+    float: left;
+    justify-content: space-between;
+    background-color: #F9B208;
+    height: 20vh;
+    width: 100vw;
+}
